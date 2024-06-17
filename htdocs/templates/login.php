@@ -13,8 +13,8 @@
                 </div>
             <button type="submit">Sign In</button>
             <p>New to MaxMusic? <a href="signup.php">Sign up now</a></p>
-            <p id="forgot"><a href="signup.php">Forgot Password</a></p>
+            <p id="forgot"><a href="forgot-password.php">Forgot Password</a></p>
         </form>
     </div>
 </div>
-  </main>
+</main>

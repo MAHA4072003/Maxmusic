@@ -7,7 +7,7 @@
                 <input type="text" required>
                 <label>Email your OTP</label>
             </div>
-            <button type="submit">SEND</button>
+            <button type="submit">SUBMIT</button>
             <p id="signup">Send OTP<a href="signup.php">Resent</a></p> 
         </form>
     </div>
